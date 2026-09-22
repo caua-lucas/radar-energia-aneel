@@ -20,17 +20,7 @@ Dessa forma, o projeto transforma os dados brutos da ANEEL em informações orga
 
 ## Demonstração do Dashboard
 
-### Análise dos dados
-
-<img width="1782" height="904" alt="Dashboard - Análise dos dados" src="https://github.com/user-attachments/assets/83253ef0-d17a-4dbe-908a-0ad4a228e8e4" />
-
-### Visão geral
-
-<img width="1828" height="901" alt="Dashboard - Visão geral" src="https://github.com/user-attachments/assets/4980be24-f2d5-442c-8c25-38f65a353001" />
-
-### Visualização detalhada
-
-<img width="1871" height="1908" alt="Dashboard - Visualização detalhada" src="https://github.com/user-attachments/assets/9a88c14c-0b3c-4ffd-ae1c-a2faa00a6b78" />
+<img width="1871" height="1908" alt="Image" src="https://github.com/user-attachments/assets/d569282d-393f-4731-a88e-fa510f8a32a8" />
 
 ---
 
